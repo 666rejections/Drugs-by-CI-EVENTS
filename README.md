@@ -2,7 +2,9 @@
 
 Adds the well-known drugs for the people who want to make quick money. Weed Field require you to run around and harvest weed plants, process and then sell at the beach of San Andreas!
 
+# REQUIREMENT :
 
+esx_drugs : https://github.com/CI-EVENTS/Crafting-By-CI-EVENTS
 
 ## Installation
 - Import `esx_drugs.sql` in your database
