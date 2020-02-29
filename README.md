@@ -4,7 +4,7 @@ Adds the well-known drugs for the people who want to make quick money. Weed Fiel
 
 ## Requirement :
 
-esx_drugs : https://github.com/CI-EVENTS/Crafting-By-CI-EVENTS
+Crafting : https://github.com/CI-EVENTS/Crafting-By-CI-EVENTS
 
 ## Installation
 - Import `esx_drugs.sql` in your database
